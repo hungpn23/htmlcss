@@ -74,7 +74,7 @@ const App = () => {
             </ul>
 
             <div className="ml-auto">
-              <a href="#!" className="text-primary text-sm font-medium">
+              <a href="#!" className="text-sm font-medium text-primary">
                 Sign in
               </a>
               <Button content="Sign up" className="ml-[18px] py-[10px]" />
@@ -233,15 +233,29 @@ const App = () => {
                 <p className="desc mt-[11px] text-sm font-medium text-[#A3A6AB]">
                   8502 Preston Rd. Inglewood, Maine 98280
                 </p>
-                <div className="info">
+                <div className="info mt-[21px]">
                   <img src={Feature1} alt="" className="icon inline" />
-                  <span>5 Beds</span>
+                  <span className="ml-2 text-sm font-medium leading-[0.14px] text-[#4D4D52]">
+                    5 Beds
+                  </span>
 
-                  <img src={Feature2} alt="" className="icon inline" />
-                  <span>2 both</span>
+                  <img
+                    src={Feature2}
+                    alt=""
+                    className="icon ml-[23px] inline"
+                  />
+                  <span className="ml-2 text-sm font-medium leading-[0.14px] text-[#4D4D52]">
+                    2 both
+                  </span>
 
-                  <img src={Feature3} alt="" className="icon inline" />
-                  <span>2000 Sqft</span>
+                  <img
+                    src={Feature3}
+                    alt=""
+                    className="icon ml-[23px] inline"
+                  />
+                  <span className="ml-2 text-sm font-medium leading-[0.14px] text-[#4D4D52]">
+                    2000 Sqft
+                  </span>
                 </div>
               </div>
             </div>
@@ -260,15 +274,29 @@ const App = () => {
                 <p className="desc mt-[11px] text-sm font-medium text-[#A3A6AB]">
                   8502 Preston Rd. Inglewood, Maine 98280
                 </p>
-                <div className="info">
+                <div className="info mt-[21px]">
                   <img src={Feature1} alt="" className="icon inline" />
-                  <span>5 Beds</span>
+                  <span className="ml-2 text-sm font-medium leading-[0.14px] text-[#4D4D52]">
+                    5 Beds
+                  </span>
 
-                  <img src={Feature2} alt="" className="icon inline" />
-                  <span>2 both</span>
+                  <img
+                    src={Feature2}
+                    alt=""
+                    className="icon ml-[23px] inline"
+                  />
+                  <span className="ml-2 text-sm font-medium leading-[0.14px] text-[#4D4D52]">
+                    2 both
+                  </span>
 
-                  <img src={Feature3} alt="" className="icon inline" />
-                  <span>2000 Sqft</span>
+                  <img
+                    src={Feature3}
+                    alt=""
+                    className="icon ml-[23px] inline"
+                  />
+                  <span className="ml-2 text-sm font-medium leading-[0.14px] text-[#4D4D52]">
+                    2000 Sqft
+                  </span>
                 </div>
               </div>
             </div>
@@ -287,15 +315,29 @@ const App = () => {
                 <p className="desc mt-[11px] text-sm font-medium text-[#A3A6AB]">
                   8502 Preston Rd. Inglewood, Maine 98280
                 </p>
-                <div className="info">
+                <div className="info mt-[21px]">
                   <img src={Feature1} alt="" className="icon inline" />
-                  <span>5 Beds</span>
+                  <span className="ml-2 text-sm font-medium leading-[0.14px] text-[#4D4D52]">
+                    5 Beds
+                  </span>
 
-                  <img src={Feature2} alt="" className="icon inline" />
-                  <span>2 both</span>
+                  <img
+                    src={Feature2}
+                    alt=""
+                    className="icon ml-[23px] inline"
+                  />
+                  <span className="ml-2 text-sm font-medium leading-[0.14px] text-[#4D4D52]">
+                    2 both
+                  </span>
 
-                  <img src={Feature3} alt="" className="icon inline" />
-                  <span>2000 Sqft</span>
+                  <img
+                    src={Feature3}
+                    alt=""
+                    className="icon ml-[23px] inline"
+                  />
+                  <span className="ml-2 text-sm font-medium leading-[0.14px] text-[#4D4D52]">
+                    2000 Sqft
+                  </span>
                 </div>
               </div>
             </div>
